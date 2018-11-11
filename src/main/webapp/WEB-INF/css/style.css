@@ -1,0 +1,18 @@
+.p {
+  margin: 35px;
+}
+
+
+.first {
+  float: left;
+    padding-left: 20px;
+}
+
+#float-right {
+    float: right;
+}
+
+#body123{
+    background-color: darkgrey;
+    color: red;
+}
